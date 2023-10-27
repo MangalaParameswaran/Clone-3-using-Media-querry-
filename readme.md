@@ -1,0 +1,1 @@
+This Clone Site is created by using HTML, CSS and media querry .
